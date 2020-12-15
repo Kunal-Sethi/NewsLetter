@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.feedback{
+  height: 300px;
+  width: 100%;
+  background-color: #C0C0C0;
+}
+.heading{
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 50px;
+}
+.paragraph{
+  color: black;
+  text-align: center;
+  margin-top: 50px;
+}
+.again{
+  margin-top: 20px;
+  margin-left:140px;
+}
+.again2{
+  margin-top: 20px;
+  margin-left:190px;
+}
